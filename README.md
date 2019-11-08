@@ -1,3 +1,11 @@
+To run this project, you must run:
+
+### `npm install`
+
+The above command installs all the required node_modules.
+
+-------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
